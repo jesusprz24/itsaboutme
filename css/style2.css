@@ -1,10 +1,8 @@
+/*This is the stylesheet for about me*/
 * body {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-}
-
-body {
     background-color: black;
     color: #fff;
 }
@@ -33,33 +31,38 @@ header a:hover {
     color: green;
 }
 
-.name {
-    color: #fff;
-    text-align: center;
-}
+.work {
+    color: gray;
 
-.name img {
-    text-align: center;
 }
-
-.name h1 {
-    font-size: 40px;
-}
-.name p {
-    font-size: 20px;
-}
-
-.name img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.work p {
+    text-align: left;
     width: 700px;
-    height: 750px;
 }
 
-.footer {
-    text-align: center;
-    font-size: 7px;
-    color: #fff;
-    opacity: 10px;
+
+.rue {
+    width: 250px;
+    height: 150px;
+    float: right;
+}
+
+.murdochs{
+    width: 250px;
+    height: 150px;
+    float: right;
+}
+
+.electric {
+    width: 250px;
+    height: 150px;
+    float: right;
+    padding-top: 25px;
+}
+
+.handyman {
+    width: 250px;
+    height: 150px;
+    float: right;
+    padding-top: 20px;
 }

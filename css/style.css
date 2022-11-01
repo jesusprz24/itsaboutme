@@ -1,27 +1,82 @@
-#menu {
-    margin: 10px;
-    width: 900px;
+* body {
     font-family: sans-serif;
+    box-sizing: border-box;
 }
 
-#menu li {
-    display: block;
-    width: 120px;
-    float: right;
-    margin-left: 2px;
-    border: 1px solid black;
-}
-
-#menu a {
-    display: block;
-    padding: 3px;
-    text-decoration: none;
+body {
     background-color: black;
-    color: #009;
-}
-
-#menu a:hover {
-    background-color: #009;
     color: #fff;
 }
 
+.nav {
+    color:#fff;
+    padding: 20;
+    float: right;
+}
+
+.nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+.name {
+    color: #fff;
+}
+
+.name p {
+    text-align: center;
+}
+
+.name img {
+    text-align: center;
+}
+
+.name h1 {
+    font-size: 40px;
+}
+.name p {
+    font-size: 20px;
+}
+
+.name img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 750px;
+}
+
+.work {
+    color: gray;
+
+}
+.work p {
+    text-align: left;
+    width: 700px;
+}
+
+
+.rue {
+    width: 250px;
+    height: 150px;
+    float: right;
+}
+
+.murdochs{
+    width: 250px;
+    height: 150px;
+    float: right;
+}
+
+.electric {
+    width: 250px;
+    height: 150px;
+    float: right;
+    padding-top: 25px;
+}
+
+.handyman {
+    width: 250px;
+    height: 150px;
+    float: right;
+    padding-top: 20px;
+}

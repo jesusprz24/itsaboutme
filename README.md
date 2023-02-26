@@ -22,6 +22,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 - HTML
 - CSS
 
+# Screenshot
+![me screenshot](./css/images/screenshot-main.png?raw=true"Screenshot")
+
 # Github Repository:
 https://github.com/jesusprz24/itsaboutme
 

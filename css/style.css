@@ -39,7 +39,11 @@ nav a:hover {
     color:white;
 }
 
-.row {
+.img {
+    float: left;
+}
+
+/*.row {
     display: flex;
     
 }
@@ -54,6 +58,14 @@ nav a:hover {
     content: "";
     clear: both;
     display: table;
+}*/
+
+.img {
+    display: center;
+}
+
+.text-block {
+    text-align: left;
 }
 
 .name {
